@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Sport Coach Board</string> 
+    
+    <string name="Admob_Key_Interstitial">ca-app-pub-9710312053534636/5488700105</string>
+    <string name="Admob_Key_Banner">ca-app-pub-9710312053534636/4011966903</string>
+
+    <string name="popup_title">Select Game Type</string>
+    <string name="popup_column">Number of Player</string>
+    
+    <string name="Popup_Info_Title">Player\'s Information</string>
+    <string name="Popup_Info_Hint_Number">Number</string>
+    <string name="Popup_Info_Hint_Name">Name</string>
+    
+    <string name="Tmp_CoachA">Coach A</string>
+    <string name="Tmp_TeamA">Team A</string>
+    <string name="Tmp_CoachB">Coach B</string>
+    <string name="Tmp_TeamB">Team B</string>
+    
+    <string name="Hint_CoachA_Name">Coach A\'s Name</string>
+    <string name="Hint_TeamA_Name">Team A\'s Name</string>
+    <string name="Hint_CoachB_Name">Coach B\'s Name</string>
+    <string name="Hint_TeamB_Name">Team B\'s Name</string>
+    <string name="Finish">Finish</string>
+    
+    <string-array name="Number_Of_Football_Player">
+        <item>5</item>
+        <item>7</item>
+        <item>11</item>
+    </string-array>
+    
+</resources>
